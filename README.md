@@ -41,3 +41,4 @@ To test the functionality of mail send you have to go  through the following ste
 
 
 
+   ![nm_logo_200x136](https://github.com/pooja2s/nodemailer-ethereal-nodeJS-express.JS/assets/90834017/ace467fd-cab8-4523-87c9-4cc9aee34658)
